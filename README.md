@@ -72,7 +72,7 @@ A aplicação é composta por três principais camadas tecnológicas:
 
 ## 🧠 Tecnologias Utilizadas
 
-- **Java 17 / Spring Boot**
+- **Java 21 / Spring Boot**
 - **Oracle Database**
 - **.NET Core**
 - **Docker**
