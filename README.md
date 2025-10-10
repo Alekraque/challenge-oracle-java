@@ -80,6 +80,9 @@ A aplicação é composta por três principais camadas tecnológicas:
 - **IoT Devices**
 - **GitHub / Git**
 
+## Video explicativo no youtube
+[Clique aqui para ver o video](https://youtu.be/gXV9Z8N6OCw?si=_m4Mb6ks_L6-RwS_)
+
 
 ## 💬 Contato
 
