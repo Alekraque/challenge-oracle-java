@@ -87,6 +87,6 @@ A aplicação é composta por três principais camadas tecnológicas:
 ## 💬 Contato
 
 - **Alex Ribeiro Maia** — [LinkedIn](https://www.linkedin.com/in/alex-maia-a16681291/)
-- **Nathalia de Oliveira Santos** — [LinkedIn](https://www.linkedin.com/in/nat%C3%A1lia-de-oliveira-santos/)
+- **Natália de Oliveira Santos** — [LinkedIn](https://www.linkedin.com/in/nat%C3%A1lia-de-oliveira-santos/)
 - **Felipe Olecsiuc Damasceno** — [LinkedIn](https://www.linkedin.com/in/felipe-olecsiuc-damasceno-034b82174/)
 
