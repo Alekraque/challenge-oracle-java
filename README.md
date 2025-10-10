@@ -5,7 +5,7 @@
 | Nome Completo | RM | Função / Responsabilidade |
 |----------------|----|---------------------------|
 | **Alex Ribeiro Maia** | RM557356 | Desenvolvedor Full-Stack — responsável pelo desenvolvimento da **API em Java (Spring Boot)** e do **aplicativo mobile em React Native** |
-| **Nathalia de Oliveira Santos** | RM560306 | Responsável pela **construção do banco de dados relacional (Oracle)** e pela realização de **testes de QA, Compliance e Test Assurance** |
+| **Natália de Oliveira Santos** | RM560306 | Responsável pela **construção do banco de dados relacional (Oracle)** e pela realização de **testes de QA, Compliance e Test Assurance** |
 | **Felipe Olecsiuc Damasceno** | RM559433 | **DevOps & Arquiteto de Solução** — responsável pela **documentação da máquina virtual (Docker)**, **design da arquitetura do ambiente**, desenvolvimento **.NET (domínio, aplicação, infraestrutura, repositórios concretos, integrações externas e migrações)**, além de **IoT**, **pitch da solução** e **documentação técnica** |
 
 ---
