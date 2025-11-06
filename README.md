@@ -70,6 +70,28 @@ A aplicação é composta por três principais camadas tecnológicas:
 ![diagrama de classes](./src/assets/diagrama.jpeg)
 
 
+### 🌤️ GET - Buscar Clima por Cidade
+```bash
+curl --request GET \
+  --url 'http://localhost:8080/api/weather?city=belo%20horizonte' \
+  --header 'User-Agent: insomnia/12.0.0'
+
+curl --request DELETE \
+  --url http://localhost:8080/users/api/users/1 \
+  --header 'User-Agent: insomnia/11.6.1'
+
+curl --request POST \
+  --url http://localhost:8080/users/api/postUser \
+  --header 'Content-Type: application/json' \
+  --header 'User-Agent: insomnia/11.6.1' \
+  --data '{
+  "nome": "Alex Maia",
+  "email": "alex.maia@exemplo.com",
+  "preferenciaAcessibilidade": "Alto contraste e leitura de tela"
+}'
+```
+
+
 ## 🧠 Tecnologias Utilizadas
 
 - **Java 21 / Spring Boot**
