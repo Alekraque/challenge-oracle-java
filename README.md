@@ -70,7 +70,7 @@ A aplicação é composta por três principais camadas tecnológicas:
 ![diagrama de classes](./src/assets/diagrama.jpeg)
 
 
-### 🌤️ GET - Buscar Clima por Cidade
+### 🌤️ GET - Testes de endpoints da API (usuário e clima principal)
 ```bash
 curl --request GET \
   --url 'http://localhost:8080/api/weather?city=belo%20horizonte' \
