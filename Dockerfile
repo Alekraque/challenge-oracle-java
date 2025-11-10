@@ -6,7 +6,7 @@ ENTRYPOINT ["top", "-b"]
 # diretorio de trabalho dentro do container
 WORKDIR /app
 
-COPY ./app/target/app.jar /app/app.jar
+COPY ./app/target/challenge-oracle-java-1.0-SNAPSHOT.jar /app/app.jar
 
 RUN useradd -m appuser
 USER appuser
